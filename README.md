@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Executing EDA and understanding relations of variables. Tools, Technologies, Librabry used are Panda, Numpy, Matplotlib, Seaborn, 
+In statistics, exploratory data analysis is an approach of analyzing data sets to summarize their main characteristics, often using statistical graphics and other data visualization methods.
