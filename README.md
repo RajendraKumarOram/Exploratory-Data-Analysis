@@ -1,2 +1,2 @@
 # Exploratory-Data-Analysis
-Executing different EDA and understanding relations of variables on different dataset from various industries.
+Executing EDA and understanding relations of variables. Tools, Technologies, Librabry used are Panda, Numpy, Matplotlib, Seaborn, 
